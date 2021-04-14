@@ -1,0 +1,20 @@
+{
+  "name": "investment_article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiskovetsES/investment_article.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiskovetsES/investment_article/issues"
+  },
+  "homepage": "https://github.com/RiskovetsES/investment_article#readme"
+}

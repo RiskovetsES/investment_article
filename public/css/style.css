@@ -91,7 +91,7 @@
     width: 9px;
     height: 11px;
     margin-right: 5px;
-    background-image: url("images/arrow-down.svg");
+    background-image: url("../images/arrow-down.svg");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -168,7 +168,7 @@
     left: -25px;
     width: 18px;
     height: 18px;
-    background-image: url("images/search icon.svg");
+    background-image: url("../images/search_icon.svg");
     background-repeat: no-repeat;
 }
 
@@ -179,7 +179,7 @@
     left: -30px;
     width: 25px;
     height: 20px;
-    background-image: url("images/email-icon.svg");
+    background-image: url("../images/email-icon.svg");
     background-repeat: no-repeat;
 }
 
@@ -239,7 +239,7 @@
     margin-top: -100px;
     padding-top: 95px;
     padding-bottom: 115px;
-    background-image: url("images/main image.png");
+    background-image: url("../images/main_image.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top right -100px;
@@ -283,11 +283,11 @@
 }
 
 .meta-views::before {
-    background-image: url("images/eye icon.svg");
+    background-image: url("../images/eye_icon.svg");
 }
 
 .meta-reading-time::before {
-    background-image: url("images/time icon.svg");
+    background-image: url("../images/time_icon.svg");
 }
 
 .main-title {
@@ -553,7 +553,7 @@
 }
 
 .recoupment__columns h2 {
-   column-span: all;
+    column-span: all;
 }
 
 .recoupment__text {
@@ -578,7 +578,7 @@
     width: 19px;
     height: 10px;
     margin-left: 10px;
-    background-image: url("images/arrow right.svg");
+    background-image: url("../images/arrow_right.svg");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -591,7 +591,7 @@
 
 .formula {
     margin: 32px 0 35px 0;
-    font-weight:600;
+    font-weight: 600;
     font-size: 26px;
     line-height: 28px;
     text-align: center;
@@ -679,7 +679,7 @@
     border-top: 1px solid #000218;
 }
 
-.footnotes{
+.footnotes {
     counter-reset: footnotes;
     padding-bottom: 0;
 }
@@ -699,7 +699,7 @@
 }
 
 .footnotes__item {
-    margin-bottom:10px;
+    margin-bottom: 10px;
 }
 
 /*meta*/

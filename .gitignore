@@ -9,6 +9,7 @@ node_modules
 # Dist & tests
 test
 dist
+materials
 
 # Logs:
 *.log

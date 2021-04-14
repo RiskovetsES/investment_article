@@ -91,7 +91,7 @@
     width: 9px;
     height: 11px;
     margin-right: 5px;
-    background-image: url("../images/arrow-down.svg");
+    background-image: url("../images/arrow-down.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -168,7 +168,7 @@
     left: -25px;
     width: 18px;
     height: 18px;
-    background-image: url("../images/search_icon.svg");
+    background-image: url("../images/search_icon.png");
     background-repeat: no-repeat;
 }
 
@@ -179,7 +179,7 @@
     left: -30px;
     width: 25px;
     height: 20px;
-    background-image: url("../images/email-icon.svg");
+    background-image: url("../images/email-icon.png");
     background-repeat: no-repeat;
 }
 
@@ -283,11 +283,11 @@
 }
 
 .meta-views::before {
-    background-image: url("../images/eye_icon.svg");
+    background-image: url("../images/eye_icon.png");
 }
 
 .meta-reading-time::before {
-    background-image: url("../images/time_icon.svg");
+    background-image: url("../images/time_icon.png");
 }
 
 .main-title {
@@ -578,7 +578,7 @@
     width: 19px;
     height: 10px;
     margin-left: 10px;
-    background-image: url("../images/arrow_right.svg");
+    background-image: url("../images/arrow_right.png");
     background-position: center;
     background-repeat: no-repeat;
 }
